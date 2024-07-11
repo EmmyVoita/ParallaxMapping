@@ -1,2 +1,2 @@
 # ParallaxMapping
-OpenGl parallax mapping
+OpenGL parallax mapping
