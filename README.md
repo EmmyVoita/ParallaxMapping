@@ -4,4 +4,4 @@ This project enhances a previously implemented OpenGL deferred rendering pipelin
 
 **Reference:**
 
-https://learnopengl.com/Advanced-Lighting/Parallax-Mapping
+- https://learnopengl.com/Advanced-Lighting/Parallax-Mapping
